@@ -1,0 +1,15 @@
+.jumbotron {
+  background-image: url("https://orig00.deviantart.net/f4a4/f/2013/258/1/c/gif___sunset_train_by_turst67-d6mdbgy.gif");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  text-align: center;
+  background-color: lightcoral;
+  color: darkblue;
+  font-weight: bold;
+  text-decoration: underline overline wavy red;
+  text-shadow:2px 2px white;
+}
+
+.row {
+  background-color: lightblue;
+}
